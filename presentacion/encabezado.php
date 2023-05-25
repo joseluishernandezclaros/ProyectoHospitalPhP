@@ -1,1 +1,1 @@
-<img src='andes.jpg' class='img-fluid' alt='Responsive image'>
+<img src='/img/andes.jpg' class='img-fluid' alt='Responsive image'>
